@@ -8,5 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/Tanish326/Leetcode_questions/tree/master/0120-triangle) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
