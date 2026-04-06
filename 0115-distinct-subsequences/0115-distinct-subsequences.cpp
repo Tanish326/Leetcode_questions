@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int check(string a , string b, int i, int j,vector<vector<int>>&dp){
-        if(j==-1){
-            return 1;
-        }
-        if(i<0 && j>=0){
-            return 0;
-        }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        if(a[i]==b[j]){
-            return dp[i][j] = check(a,b,i-1,j-1,dp) + check(a,b,i-1,j,dp);
-        }else{
-            return dp[i][j] = check(a,b,i-1,j,dp);
-        }
-    }
     int numDistinct(string s, string t) {
-        int n = s.size()-1;
-        int m = t.size()-1;
-        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
-        return check(s,t,n,m,dp);
+        int n = s.size();
+        int m = t.size();
+        vector<vector<long long>>dp(n+1,vector<long long>(m+1,0));
+         for(int i=0;i<=n;i++){
+            dp[i][0] = 1;
+         }
+         for(int i=1;i<=m;i++){
+            dp[0][i] = 0;
+         }
+         for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                 if(s[i-1]==t[j-1]){
+                    dp[i][j] = dp[i-1][j-1] + dp[i-1][j];
+                }else{
+                    dp[i][j] = dp[i-1][j];
+                }
+            }
+         }
+         return dp[n][m];
+        
     }
 };
