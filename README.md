@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tanish326/Leetcode_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Tanish326/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tanish326/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
