@@ -1,24 +1,16 @@
 class Solution {
 public:
+   int check(int m, int n,int ind1, int ind2,vector<vector<int>>&dp){
+    if(ind1==m-1 || ind2==n-1){
+        return 1;
+    }
+    if(dp[ind1][ind2]!=-1){
+        return dp[ind1][ind2];
+    }
+   return dp[ind1][ind2] = check(m,n,ind1+1,ind2,dp) + check(m,n,ind1,ind2+1,dp);
+   }
     int uniquePaths(int m, int n) {
-         vector<vector<int>>dp(m,vector<int>(n,-1));
-         for(int i=0;i<m;i++){
-            dp[i][0] = 1;
-         }
-         for(int i=0;i<n;i++){
-            dp[0][i] = 1;
-         }
-         for(int i=1;i<m;i++){
-            for(int j=1;j<n;j++){
-                int down = 0;
-                if(i>0){
-              down =  dp[i-1][j];}
-              int right = 0;
-               if(j>0){
-                right = dp[i][j-1];}
-                dp[i][j] = down + right;
-            }
-         }
-         return dp[m-1][n-1];
+        vector<vector<int>>dp(m,vector<int>(n,-1));
+        return check(m,n,0,0,dp);
     }
 };
