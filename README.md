@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanish326/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanish326/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
