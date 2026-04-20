@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Tanish326/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Tanish326/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Tanish326/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Tanish326/Leetcode_questions/tree/master/0115-distinct-subsequences) |
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
