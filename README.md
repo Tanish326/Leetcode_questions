@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0494-target-sum) |
 ## String
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Tanish326/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Tanish326/Leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tanish326/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tanish326/Leetcode_questions/tree/master/0096-unique-binary-search-trees) |
+| [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -188,8 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tanish326/Leetcode_questions/tree/master/0096-unique-binary-search-trees) |
+| [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
