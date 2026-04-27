@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Tanish326/Leetcode_questions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Tanish326/Leetcode_questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tanish326/Leetcode_questions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0494-target-sum) |
 ## String
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tanish326/Leetcode_questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
