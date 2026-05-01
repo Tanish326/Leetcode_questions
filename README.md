@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Tanish326/Leetcode_questions/tree/master/0078-subsets) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Tanish326/Leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
