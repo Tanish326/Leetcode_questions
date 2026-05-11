@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Tanish326/Leetcode_questions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Tanish326/Leetcode_questions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Tanish326/Leetcode_questions/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Tanish326/Leetcode_questions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Tanish326/Leetcode_questions/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Tanish326/Leetcode_questions/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
