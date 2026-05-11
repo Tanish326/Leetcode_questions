@@ -189,10 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Tanish326/Leetcode_questions/tree/master/0096-unique-binary-search-trees) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Tanish326/Leetcode_questions/tree/master/0096-unique-binary-search-trees) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Trie
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
