@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tanish326/Leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Tanish326/Leetcode_questions/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Tanish326/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/0312-burst-balloons) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
