@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanish326/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/Tanish326/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
@@ -285,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish326/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
