@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Tanish326/Leetcode_questions/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Tanish326/Leetcode_questions/tree/master/0463-island-perimeter) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Tanish326/Leetcode_questions/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0494-target-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Tanish326/Leetcode_questions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanish326/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
