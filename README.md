@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tanish326/Leetcode_questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish326/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tanish326/Leetcode_questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanish326/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Tanish326/Leetcode_questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
