@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanish326/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tanish326/Leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0090-subsets-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/Tanish326/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/Tanish326/Leetcode_questions/tree/master/0463-island-perimeter) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
