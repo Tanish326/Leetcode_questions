@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tanish326/Leetcode_questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Tanish326/Leetcode_questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Tanish326/Leetcode_questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Tanish326/Leetcode_questions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Tanish326/Leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Tanish326/Leetcode_questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Tanish326/Leetcode_questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
