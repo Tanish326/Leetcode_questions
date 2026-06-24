@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Tanish326/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tanish326/Leetcode_questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Tanish326/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanish326/Leetcode_questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanish326/Leetcode_questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Tanish326/Leetcode_questions/tree/master/0289-game-of-life) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish326/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
