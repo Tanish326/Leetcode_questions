@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tanish326/Leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Tanish326/Leetcode_questions/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Tanish326/Leetcode_questions/tree/master/0289-game-of-life) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Tanish326/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Tanish326/Leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
