@@ -1,24 +1,38 @@
 class Solution {
 public:
-    vector<int> applyOperations(vector<int>& nums) {
+        void swap(int *a, int *b){
+        int t = *a;
+        *a = *b;
+        *b = t;
+    }
+      void moveZeroes(vector<int>& nums) {
         int n = nums.size();
         int i = 0;
-        int j = i+1;
-        while(i<j && j<n){
+        int j = 0;
+        while(j<n){
+            if(nums[j]!=0){
+               swap(&nums[i],&nums[j]);
+                i++;
+            }
+            j++;
+
+        }
+
+    }
+    vector<int> applyOperations(vector<int>& nums) {
+        int n = nums.size();
+          int i = 0;
+          int j = i+1;
+          while(j<n){
             if(nums[i]==nums[j]){
                 nums[i] = nums[i]*2;
                 nums[j] = 0;
             }
             i++;
             j++;
-        }
-        vector<int>ans(n,0);
-        int c = 0;
-        for(int i=0;i<n;i++){
-            if(nums[i]!=0){
-                ans[c++] = nums[i];
-            }
-        }
-        return ans;
+          }
+       moveZeroes(nums);
+       return nums;
+
     }
 };
