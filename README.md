@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tanish326/Leetcode_questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Tanish326/Leetcode_questions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tanish326/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tanish326/Leetcode_questions/tree/master/0054-spiral-matrix) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Tanish326/Leetcode_questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
