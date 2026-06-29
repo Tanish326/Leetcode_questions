@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tanish326/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1446-consecutive-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1446-consecutive-characters) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Tanish326/Leetcode_questions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanish326/Leetcode_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Recursion
