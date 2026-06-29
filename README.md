@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Tanish326/Leetcode_questions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanish326/Leetcode_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Tanish326/Leetcode_questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Recursion
 |  |
 | ------- |
