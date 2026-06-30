@@ -2,21 +2,23 @@ class Solution {
 public:
     int mostFrequentEven(vector<int>& nums) {
         map<int,int>mpp;
-        int maxlen = -1e9;
-        for(int i=0;i<nums.size();i++){
+        int n = nums.size();
+        for(int i=0;i<n;i++){
             if(nums[i]%2==0){
-               int c = mpp[nums[i]]++;
-               maxlen = max(maxlen,c);
+                mpp[nums[i]]++;
             }
         }
-          int freq = -1e9;
-          int ans = -1;
-          for(auto k : mpp){
-               if(k.second>freq){
-                ans = k.first;
+        
+        int freq = -1;
+        int val = -1;
+        for(auto k : mpp){
+    
+            if(k.second>freq){
                 freq = k.second;
-               }
-          }
-        return ans;
+                val = k.first;
+            }
+        }
+      
+        return val;
     }
 };
