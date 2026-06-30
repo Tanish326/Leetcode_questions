@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tanish326/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1446-consecutive-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Tanish326/Leetcode_questions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanish326/Leetcode_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Tanish326/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2404-most-frequent-even-element](https://github.com/Tanish326/Leetcode_questions/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
