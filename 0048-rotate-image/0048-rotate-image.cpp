@@ -1,19 +1,20 @@
 class Solution {
 public:
     void swap(int *a,int *b){
-        int temp = *a;
+        int t = *a;
         *a = *b;
-        *b = temp;
+        *b = t;
     }
     void rotate(vector<vector<int>>& matrix) {
-        for(int i=0;i<matrix.size();i++){
-            for(int j=0;j<matrix[0].size();j++){
-                 if(j>i){
+        int n = matrix.size();
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(j>i){
                     swap(&matrix[i][j],&matrix[j][i]);
-                 }
+                }
             }
         }
-        for(int i=0;i<matrix.size();i++){
+        for(int i=0;i<n;i++){
             reverse(matrix[i].begin(),matrix[i].end());
         }
     }
