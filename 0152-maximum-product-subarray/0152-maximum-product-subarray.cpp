@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int pref = 1;
         int suff = 1;
-        int maxi = INT_MIN;
+        int maxprod = -1e9;
         for(int i=0;i<n;i++){
             if(pref==0){
                 pref = 1;
@@ -13,9 +13,9 @@ public:
                 suff = 1;
             }
             pref = pref*nums[i];
-            suff = suff*nums[n-i-1];
-            maxi = max(maxi,max(pref,suff));
+            suff = suff*nums[n-1-i];
+            maxprod = max(maxprod,max(pref,suff));
         }
-        return maxi;
+        return maxprod;
     }
 };
