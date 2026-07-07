@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Tanish326/Leetcode_questions/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Tanish326/Leetcode_questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Tanish326/Leetcode_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Tanish326/Leetcode_questions/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [2404-most-frequent-even-element](https://github.com/Tanish326/Leetcode_questions/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
