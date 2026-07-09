@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Tanish326/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Tanish326/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tanish326/Leetcode_questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Tanish326/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
