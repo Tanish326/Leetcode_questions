@@ -4,21 +4,21 @@ public:
         int n = nums.size();
         int low = 0;
         int high = n-1;
-        int mid;
-        int ans = 1e9;
+        int minelem = 1e9;
         while(low<=high){
-            int mid = (low+high)/2;
-            if(nums[mid]<ans){
-                ans = nums[mid];
+            if(nums[low]<=nums[high]){
+                return min(nums[low],minelem);
             }
-         if(nums[mid]>=nums[low] && nums[mid]<=nums[high]){
-             high = mid-1;
-         }else if(nums[mid]>=nums[low]){
-            low = mid+1;
-         }else{
-            high = mid-1;
-         }
+            int mid = low + (high-low)/2;
+            if(nums[mid]>=nums[low]){
+               minelem = min(minelem,nums[low]);
+               low = mid+1;
+            }else if(nums[mid]<=nums[high]){
+                minelem = min(minelem,nums[mid]);
+                high = mid-1;
+            }
+             
         }
-        return ans;
+        return minelem;
     }
 };
