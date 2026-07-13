@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tanish326/Leetcode_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Tanish326/Leetcode_questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tanish326/Leetcode_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tanish326/Leetcode_questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanish326/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish326/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Tanish326/Leetcode_questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1446-consecutive-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Tanish326/Leetcode_questions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanish326/Leetcode_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Tanish326/Leetcode_questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanish326/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tanish326/Leetcode_questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Tanish326/Leetcode_questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tanish326/Leetcode_questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Tanish326/Leetcode_questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanish326/Leetcode_questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
