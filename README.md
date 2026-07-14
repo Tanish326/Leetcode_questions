@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanish326/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Tanish326/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Tanish326/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tanish326/Leetcode_questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish326/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Tanish326/Leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Tanish326/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tanish326/Leetcode_questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tanish326/Leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanish326/Leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanish326/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Tanish326/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Tanish326/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tanish326/Leetcode_questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Tanish326/Leetcode_questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
