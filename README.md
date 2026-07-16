@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Tanish326/Leetcode_questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tanish326/Leetcode_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
+| [1901-find-a-peak-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tanish326/Leetcode_questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanish326/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanish326/Leetcode_questions/tree/master/0463-island-perimeter) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tanish326/Leetcode_questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2643-row-with-maximum-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 ## Memoization
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tanish326/Leetcode_questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Tanish326/Leetcode_questions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
+| [1901-find-a-peak-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tanish326/Leetcode_questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Tanish326/Leetcode_questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanish326/Leetcode_questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
