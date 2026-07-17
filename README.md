@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tanish326/Leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Tanish326/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tanish326/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0018-4sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tanish326/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Tanish326/Leetcode_questions/tree/master/0044-wildcard-matching) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tanish326/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
