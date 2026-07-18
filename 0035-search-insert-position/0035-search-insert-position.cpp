@@ -8,9 +8,8 @@ public:
         while(l<=h){
             int mid = l + (h-l)/2;
             if(nums[mid]>=target){
-               lower = mid;
-               h = mid-1;
-
+                lower = mid;
+                h = mid-1;
             }else{
                 l = mid+1;
             }
