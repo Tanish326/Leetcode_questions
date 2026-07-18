@@ -12,13 +12,16 @@ public:
             if(nums[l]==nums[mid] && nums[mid]==nums[h]){
                 l++;
                 h--;
-            }else if(nums[mid]>=nums[l]){
-                if(target>=nums[l] && target<=nums[mid]){
+               continue;
+            }
+         
+            if(nums[mid]>=nums[l]){
+                if(target>=nums[l]&& target<=nums[mid]){
                     h = mid-1;
                 }else{
                     l = mid+1;
                 }
-            }else{
+            }else if(nums[mid]<=nums[h]){
                 if(target>=nums[mid] && target<=nums[h]){
                     l = mid+1;
                 }else{
