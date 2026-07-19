@@ -4,25 +4,27 @@ public:
         int n = nums.size();
         long long count = 0;
         for(int i=0;i<n;i++){
-            count = count + nums[i]/maxcandies;
+            if(nums[i]>=maxcandies){
+                count = count + nums[i]/maxcandies;
+            }
         }
         return count;
     }
     int maximumCandies(vector<int>& candies, long long k) {
-        int l = 1;
-        int h = candies[0];
         int n = candies.size();
-        int ans = 0;
+        int l = 1;
+        int h = 0;
         for(int i=0;i<n;i++){
             if(candies[i]>h){
                 h = candies[i];
             }
         }
+        int ans = 0;
         while(l<=h){
             int mid = l + (h-l)/2;
             if(check(candies,mid)>=k){
-                ans = mid;
-                l = mid+1;
+                 ans = mid;
+                 l = mid + 1;
             }else{
                 h = mid-1;
             }
