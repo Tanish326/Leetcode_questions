@@ -4,15 +4,17 @@ public:
         int n = nums.size();
         long long count = 0;
         for(int i=0;i<n;i++){
-            count = count + (nums[i]-1)/minballs;
+        
+          count = count + (nums[i]-1)/minballs;
+         
         }
         return count;
     }
     int minimumSize(vector<int>& nums, int maxOperations) {
+        int n = nums.size();
         int l = 1;
         int h = nums[0];
-        int n = nums.size();
-        int ans;
+        int ans = 0;
         for(int i=0;i<n;i++){
             if(nums[i]>h){
                 h = nums[i];
