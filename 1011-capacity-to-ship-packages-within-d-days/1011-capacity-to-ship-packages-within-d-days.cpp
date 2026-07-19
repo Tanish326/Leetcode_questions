@@ -1,29 +1,24 @@
 class Solution {
 public:
-    int check(vector<int>&nums,int capacity){
-       int day = 1;
-       int load = 0;
-       for(int i=0;i<nums.size();i++){
-        if((nums[i] + load)<=capacity){
-            load = load + nums[i];
+   int check(vector<int>&nums,int mincapacity){
+    int capacity = nums[0];
+    int days = 1;
+    for(int i=1;i<nums.size();i++){
+        if((nums[i] + capacity)<=mincapacity){
+            capacity = capacity + nums[i];
         }else{
-            load = nums[i];
-            day++;
-             
-        }
-       }
-       return day;
-        
-          
+            days++;
+            capacity = nums[i];
 
-    }
-    int shipWithinDays(vector<int>& weights, int days) {
-        int l = *max_element(weights.begin(),weights.end());
-        int h = 0;
-        for(int i=0;i<weights.size();i++){
-            h = h + weights[i];
         }
-        int ans;
+    }
+    return days;
+   }
+    int shipWithinDays(vector<int>& weights, int days) {
+        int n = weights.size();
+        int l = *max_element(weights.begin(),weights.end());
+        int h = accumulate(weights.begin(),weights.end(),0);
+        int ans = 0;
         while(l<=h){
             int mid = l + (h-l)/2;
             if(check(weights,mid)<=days){
