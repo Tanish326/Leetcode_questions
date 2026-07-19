@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Tanish326/Leetcode_questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Tanish326/Leetcode_questions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2643-row-with-maximum-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Tanish326/Leetcode_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Tanish326/Leetcode_questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Tanish326/Leetcode_questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Tanish326/Leetcode_questions/tree/master/2594-minimum-time-to-repair-cars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
