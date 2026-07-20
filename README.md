@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Tanish326/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Tanish326/Leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Tanish326/Leetcode_questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Tanish326/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0392-is-subsequence) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Tanish326/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Tanish326/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0454-4sum-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0454-4sum-ii) |
