@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Tanish326/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tanish326/Leetcode_questions/tree/master/0583-delete-operation-for-two-strings) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Tanish326/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0454-4sum-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0525-contiguous-array) |
