@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Tanish326/Leetcode_questions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tanish326/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Tanish326/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tanish326/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Tanish326/Leetcode_questions/tree/master/0056-merge-intervals) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tanish326/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Tanish326/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tanish326/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tanish326/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0088-merge-sorted-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Tanish326/Leetcode_questions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Tanish326/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Tanish326/Leetcode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Tanish326/Leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Tanish326/Leetcode_questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Tanish326/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Tanish326/Leetcode_questions/tree/master/0139-word-break) |
