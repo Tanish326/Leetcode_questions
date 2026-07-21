@@ -5,21 +5,13 @@ public:
             return false;
         }
         unordered_map<char,int>mpp;
+        unordered_map<char,int>mpp1;
         for(int i=0;i<s.size();i++){
             mpp[s[i]]++;
+            mpp1[t[i]]++;
+
         }
-        for(int j=0;j<t.size();j++){
-            if(mpp.find(t[j])==mpp.end()){
-                return false;
-            }else{
-                mpp[t[j]]--;
-            }
-        }
-        for(auto &k : mpp){
-            if(k.second>0){
-                return false;
-            }
-        }
-        return true;
+      
+        return mpp==mpp1;
     }
 };
