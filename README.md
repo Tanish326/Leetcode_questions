@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanish326/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Tanish326/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0062-unique-paths) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanish326/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tanish326/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0022-generate-parentheses) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Tanish326/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Tanish326/Leetcode_questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Tanish326/Leetcode_questions/tree/master/0049-group-anagrams) |
