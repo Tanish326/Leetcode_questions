@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Tanish326/Leetcode_questions/tree/master/2594-minimum-time-to-repair-cars) |
+| [2615-sum-of-distances](https://github.com/Tanish326/Leetcode_questions/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Tanish326/Leetcode_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Tanish326/Leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2374-node-with-highest-edge-score](https://github.com/Tanish326/Leetcode_questions/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/Tanish326/Leetcode_questions/tree/master/2404-most-frequent-even-element) |
+| [2615-sum-of-distances](https://github.com/Tanish326/Leetcode_questions/tree/master/2615-sum-of-distances) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tanish326/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish326/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
+| [2615-sum-of-distances](https://github.com/Tanish326/Leetcode_questions/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
