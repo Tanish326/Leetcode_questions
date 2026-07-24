@@ -1,21 +1,20 @@
 class Solution {
 public:
-    void swap(int *a,int *b){
-        int t = *a;
-        *a = *b;
-        *b = t;
-    }
+   void swap(int *a,int *b){
+    int t = *a;
+    *a = *b;
+    *b = t;
+   }
     int removeElement(vector<int>& nums, int val) {
           int n = nums.size();
           int i = 0;
           int j = 0;
-          while(i<n && j<n){
+          while(j<n){
             if(nums[j]!=val){
                 swap(&nums[i],&nums[j]);
                 i++;
             }
             j++;
-
           }
           return i;
     }
