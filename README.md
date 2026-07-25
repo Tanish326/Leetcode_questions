@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Tanish326/Leetcode_questions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Tanish326/Leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tanish326/Leetcode_questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Tanish326/Leetcode_questions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanish326/Leetcode_questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tanish326/Leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
