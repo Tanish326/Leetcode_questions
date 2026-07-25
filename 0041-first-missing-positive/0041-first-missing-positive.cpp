@@ -2,24 +2,22 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         int n = nums.size();
-        if(n==1){
-           if(nums[0]<1 || nums[0]>1){
-            return 1;
-           }else{
-            return n+1;
-           }
-        }
-        unordered_map<int,int>mpp;
+     
         for(int i=0;i<n;i++){
-            mpp[nums[i]]++;
-        }
-        int i = 1;
-        
-        while(i<=n){
-            if(mpp.find(i)==mpp.end()){
-                return i;
+            if(nums[i]<=0 || nums[i]>n){
+                nums[i] = n+1;
             }
-            i = i+1;
+        }
+        for(int i=0;i<n;i++){
+           int ind = abs(nums[i])-1;
+            if(ind<n && nums[ind]>0){
+                nums[ind] = -1*nums[ind];
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(nums[i]>0){
+                return i+1;
+            }
         }
         return n+1;
     }
