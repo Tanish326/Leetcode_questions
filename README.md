@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Tanish326/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0890-find-and-replace-pattern) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Tanish326/Leetcode_questions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Tanish326/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanish326/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
