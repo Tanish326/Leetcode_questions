@@ -12,14 +12,16 @@ public:
         if(!head || !head->next){
             return false;
         }
-        ListNode* temp = head;
-        while(temp!=NULL){
-            if(temp->val==-1e9){
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        while(fast!=NULL && fast->next!=NULL){
+            if(slow==fast){
                 return true;
             }
-            temp->val = -1e9;
-            temp = temp->next;
+            slow = slow->next;
+            fast = fast->next->next;
         }
         return false;
+        
     }
 };
