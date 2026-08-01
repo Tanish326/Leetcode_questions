@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanish326/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanish326/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanish326/Leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
