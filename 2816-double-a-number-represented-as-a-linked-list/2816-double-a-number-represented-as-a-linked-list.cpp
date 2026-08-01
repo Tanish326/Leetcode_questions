@@ -10,21 +10,32 @@
  */
 class Solution {
 public:
-    ListNode* doubleIt(ListNode* head) {
-        int carry = twice(head);
-        if (carry > 0) {
-            head = new ListNode(carry, head);
+    ListNode* reverse(ListNode* head){
+        ListNode* prev = NULL;
+        while(head){
+            ListNode* a = head->next;
+            head->next = prev;
+            prev = head;
+            head = a;
         }
-        return head;
+        return prev;
     }
-
-private:
-    int twice(ListNode* head) {
-        if (head == nullptr) {
-            return 0;
+    ListNode* doubleIt(ListNode* head) {
+        ListNode* head1 = reverse(head);
+        ListNode* temp = head1;
+        ListNode* head2 = NULL;
+        int carry = 0;
+        while(temp){
+            temp->val = temp->val*2 + carry;
+            carry = temp->val/10;
+            temp->val  = temp->val%10;
+            head2 = temp;
+            temp = temp->next;
         }
-        int doubledValue = head->val * 2 + twice(head->next);
-        head->val = doubledValue % 10;
-        return doubledValue / 10;
+        if(carry){
+            head2->next = new ListNode(carry);
+            head2 = head2->next;
+        }
+        return reverse(head1); 
     }
 };
