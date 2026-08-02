@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Tanish326/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanish326/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tanish326/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tanish326/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Tanish326/Leetcode_questions/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanish326/Leetcode_questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Tanish326/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanish326/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0206-reverse-linked-list) |
