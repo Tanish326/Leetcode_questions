@@ -10,67 +10,74 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* head){
+        ListNode* prev = NULL;
+        while(head){
+            ListNode* temp = head->next;
+            head->next = prev;
+            prev = head;
+            head = temp;
+        }
+        return prev;
+    }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         if(left==right){
             return head;
         }
-        ListNode* previous = NULL;
-        ListNode* temp = head;
-        ListNode* temp1 = head;
-        if(left==1){
-            int ind = 1;
-            while(temp1!=NULL){
-                if(ind==right){
-                    break;
-                }
-                ind++;
-               temp1 = temp1->next;
-            }
-        }else{
-            int ind1 = 1;
-            int ind2 = 1;
-            while(temp!=NULL){
-                if(ind1==left){
-                    break;
-                }
-                ind1++;
-                previous = temp;
-                temp = temp->next;
-            }
-            while(temp1!=NULL){
-                if(ind2==right){
-                    break;
-                }
-                ind2++;
-                temp1 = temp1->next;
-            }
-        }
-     
+        ListNode* node = head;
+        int ind1 = 1;
         ListNode* pre = NULL;
-        if(temp1->next!=NULL){
-           pre = temp1->next;
+        ListNode* prev;
+        ListNode* temp2;
+        ListNode* temp1;
+        while(node){
+            if(ind1==left){
+               prev = pre;
+               temp1 = node;
+               }
+            if(ind1==right){
+                temp2 = node;
+            }
+            ind1++;
+            pre = node;
+            node = node->next;
         }
-        ListNode* curr = temp;
-        
-        while(curr!=temp1){
-            ListNode* a = curr->next;
-            curr->next = pre;
-            pre = curr;
-            curr = a;
-        }
-        curr->next = pre;
-     
-      if(previous){
-    previous->next = curr;
-}
-        if(previous==NULL){
-            return curr;
-        }
-        
-        
-        return head;
+       if(temp1==head){
+          if(!temp2->next){
+            return reverse(temp1);
+          }else{
+            ListNode* temp = temp1;
+            ListNode* p = temp2->next;
+             while(temp!=temp2){
+                 ListNode* n = temp->next;
+                 temp->next = p;
+                 p = temp;
+                 temp = n;
+             }
+             temp->next = p;
+             return temp;
+          }
+       }else{
+             if(!temp2->next){
+               prev->next = reverse(temp1);
+               return head;
+             }else{
+                ListNode* a = temp2->next;
+                ListNode* temp = temp1;
+                while(temp!=temp2){
+                    ListNode* f = temp->next;
+                    temp->next = a;
+                    a = temp;
+                    temp = f;
 
-        
-        
+                }
+                temp->next = a;
+                prev->next = temp;
+                return head;
+             }
+       
+       }
+       return NULL;
+
     }
 };
