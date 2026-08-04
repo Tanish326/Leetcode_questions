@@ -60,9 +60,6 @@ public:
                 prevGroupTail->next = newGroupHead;
             }
 
-            // temp is now the tail of the reversed group
-            temp->next = nextnode;
-
             // Update pointers for next iteration
             prevGroupTail = temp;
             temp = nextnode;
