@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tanish326/Leetcode_questions/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Tanish326/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0088-merge-sorted-array) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Tanish326/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tanish326/Leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Tanish326/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
