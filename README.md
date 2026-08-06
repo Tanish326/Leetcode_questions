@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanish326/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanish326/Leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -727,4 +728,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Tanish326/Leetcode_questions/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
