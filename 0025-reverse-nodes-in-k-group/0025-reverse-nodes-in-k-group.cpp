@@ -8,63 +8,60 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-   class Solution {
+class Solution {
 public:
-    ListNode* reverse(ListNode* head) {
+    ListNode* reverse(ListNode* head){
         ListNode* prev = NULL;
-        while (head) {
-            ListNode* f = head->next;
+        while(head){
+            ListNode* a = head->next;
             head->next = prev;
             prev = head;
-            head = f;
+            head = a;
         }
         return prev;
     }
-
-    ListNode* findkthnode(ListNode* head, int k) {
-        while (head && --k) {
-            head = head->next;
-        }
-        return head;
-    }
-
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head || k == 1)
-            return head;
-
-        ListNode* temp = head;
-        ListNode* prevGroupTail = NULL;
-        ListNode* newHead = head;
-
-        while (temp) {
-            ListNode* kthnode = findkthnode(temp, k);
-
-            // Less than k nodes remain
-            if (!kthnode) {
-                if (prevGroupTail)
-                    prevGroupTail->next = temp;
+    ListNode* findkthnode(ListNode* head,int k){
+        int ind = 1;
+        while(head){
+            if(ind==k){
+                return head;
                 break;
             }
-
-            ListNode* nextnode = kthnode->next;
-            kthnode->next = NULL;
-
-            // Reverse current group
-            ListNode* newGroupHead = reverse(temp);
-
-            // First group
-            if (temp == head) {
-                newHead = newGroupHead;
-            } else {
-                prevGroupTail->next = newGroupHead;
-            }
-
-            // Update pointers for next iteration
-            prevGroupTail = temp;
-            temp = nextnode;
+            ind++;
+            head = head->next;
         }
+        return NULL;
+    }
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        if(k==1){
+            return head;
+        }
+        ListNode* temp = head;
+        ListNode* prev = NULL;
+        ListNode* newhead;
+        while(temp){
+            ListNode* kthnode = findkthnode(temp,k);
+            if(kthnode==NULL){
+                if(prev){
+                    prev->next = temp;
 
-        return newHead;
+                }
+                break;
+            }
+           ListNode* nextnode =  kthnode->next;
+           kthnode->next = NULL;
+            ListNode* newgrouphead = reverse(temp);
+            if(temp==head){
+                newhead = kthnode;
+            }else{
+                prev->next = newgrouphead;
+            }
+            prev = temp;
+            temp = nextnode;
+            
+
+        }
+        return newhead;
+        
     }
 };
