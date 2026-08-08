@@ -10,53 +10,36 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head){
-        ListNode* prev = NULL;
-        while(head){
-            ListNode* c = head->next;
-            head->next = prev;
-            prev = head;
-            head = c;
-        }
-        return prev;
-    }
-    ListNode* findkth(ListNode* head,int k){
-         while(head && --k){
-            head = head->next;
-            
-
-         }
-         return head;
-    }
     ListNode* rotateRight(ListNode* head, int k) {
-        if(!head){
-            return NULL;
-        }
-        if(!head->next){
+        if(!head || !head->next){
             return head;
         }
-        ListNode* temp = head;
-        int len = 0;
-        while(temp){
+        ListNode* tail = head;
+        int len = 1;
+        while(tail->next){
             len++;
+            tail = tail->next;
+        }
+        k = k%len;
+        tail->next = head;
+        ListNode* newhead = tail->next;
+        int target = len-k;
+        ListNode* temp = newhead;
+        int count = 1;
+        while(temp){
+            if(count==target){
+                break;
+            }
+            count++;
             temp = temp->next;
         }
-        
-        k = k%len;
-        if(k==0){
-            return head;
-        }
-      ListNode* h1 =  reverse(head);
-      ListNode* kthnode = findkth(h1,k);
-      ListNode* h2 = kthnode->next;
-      kthnode->next = NULL;
-      ListNode* h3 = reverse(h1);
-      ListNode* h4 = reverse(h2);
-      h1->next = h4;
+        newhead = temp->next;
+        temp->next = NULL;
+        return newhead;
 
 
 
-    return h3;
+
 
     }
 };
