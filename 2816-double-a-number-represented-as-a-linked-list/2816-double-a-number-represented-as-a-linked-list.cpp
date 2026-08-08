@@ -21,21 +21,26 @@ public:
         return prev;
     }
     ListNode* doubleIt(ListNode* head) {
-        ListNode* head1 = reverse(head);
-        ListNode* temp = head1;
-        ListNode* head2 = NULL;
+        
+        ListNode* temp = reverse(head);
+        ListNode* newhead = temp;
         int carry = 0;
-        while(temp){
-            temp->val = temp->val*2 + carry;
-            carry = temp->val/10;
-            temp->val  = temp->val%10;
-            head2 = temp;
+        ListNode* prev;
+         while(temp){
+            int s = 0;
+            s = s + temp->val*2 + carry;
+            temp->val = s%10;
+            carry = s/10;
+            prev = temp;
             temp = temp->next;
         }
+        
         if(carry){
-            head2->next = new ListNode(carry);
-            head2 = head2->next;
+            prev->next = new ListNode(carry);
+            prev = prev->next;
         }
-        return reverse(head1); 
+        return reverse(newhead);
+
+        
     }
 };
