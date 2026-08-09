@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanish326/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Tanish326/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0817-linked-list-components](https://github.com/Tanish326/Leetcode_questions/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Tanish326/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Tanish326/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0697-degree-of-an-array) |
+| [0817-linked-list-components](https://github.com/Tanish326/Leetcode_questions/tree/master/0817-linked-list-components) |
 | [0890-find-and-replace-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0890-find-and-replace-pattern) |
 | [0997-find-the-town-judge](https://github.com/Tanish326/Leetcode_questions/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Tanish326/Leetcode_questions/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/Tanish326/Leetcode_questions/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
