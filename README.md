@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Tanish326/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tanish326/Leetcode_questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish326/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanish326/Leetcode_questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Tanish326/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tanish326/Leetcode_questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tanish326/Leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanish326/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/Tanish326/Leetcode_questions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2121-intervals-between-identical-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/2121-intervals-between-identical-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2341-maximum-number-of-pairs-in-array) |
