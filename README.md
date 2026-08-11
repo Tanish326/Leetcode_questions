@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tanish326/Leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Tanish326/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Tanish326/Leetcode_questions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Tanish326/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tanish326/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanish326/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Tanish326/Leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Tanish326/Leetcode_questions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Tanish326/Leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tanish326/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tanish326/Leetcode_questions/tree/master/0268-missing-number) |
