@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanish326/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Tanish326/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanish326/Leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Tanish326/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Tanish326/Leetcode_questions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0697-degree-of-an-array) |
 | [0817-linked-list-components](https://github.com/Tanish326/Leetcode_questions/tree/master/0817-linked-list-components) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish326/Leetcode_questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Ordered Set
