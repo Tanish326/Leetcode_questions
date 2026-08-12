@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Tanish326/Leetcode_questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Tanish326/Leetcode_questions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1652-defuse-the-bomb](https://github.com/Tanish326/Leetcode_questions/tree/master/1652-defuse-the-bomb) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Tanish326/Leetcode_questions/tree/master/1711-count-good-meals) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanish326/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/Tanish326/Leetcode_questions/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Ordered Set
 |  |
