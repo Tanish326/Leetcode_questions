@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Tanish326/Leetcode_questions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Tanish326/Leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanish326/Leetcode_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Tanish326/Leetcode_questions/tree/master/1711-count-good-meals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish326/Leetcode_questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2121-intervals-between-identical-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/2121-intervals-between-identical-elements) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tanish326/Leetcode_questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tanish326/Leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tanish326/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/Tanish326/Leetcode_questions/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Ordered Set
 |  |
