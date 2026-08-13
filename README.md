@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Tanish326/Leetcode_questions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Tanish326/Leetcode_questions/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/Tanish326/Leetcode_questions/tree/master/2643-row-with-maximum-ones) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Tanish326/Leetcode_questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Tanish326/Leetcode_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanish326/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tanish326/Leetcode_questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Tanish326/Leetcode_questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Ordered Set
 |  |
