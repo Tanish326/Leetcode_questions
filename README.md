@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tanish326/Leetcode_questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Tanish326/Leetcode_questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanish326/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanish326/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Ordered Set
 |  |
 | ------- |
