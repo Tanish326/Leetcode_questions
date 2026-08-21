@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Tanish326/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Tanish326/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tanish326/Leetcode_questions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tanish326/Leetcode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1446-consecutive-characters) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Tanish326/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tanish326/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tanish326/Leetcode_questions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Tanish326/Leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tanish326/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Tanish326/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanish326/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tanish326/Leetcode_questions/tree/master/0724-find-pivot-index) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tanish326/Leetcode_questions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/Tanish326/Leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [2121-intervals-between-identical-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/2121-intervals-between-identical-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Tanish326/Leetcode_questions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tanish326/Leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanish326/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Tanish326/Leetcode_questions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/Tanish326/Leetcode_questions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
