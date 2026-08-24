@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-sum-of-beauty-in-the-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tanish326/Leetcode_questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/Tanish326/Leetcode_questions/tree/master/2090-k-radius-subarray-averages) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2121-intervals-between-identical-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/2121-intervals-between-identical-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanish326/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanish326/Leetcode_questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Tanish326/Leetcode_questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Tanish326/Leetcode_questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Math
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tanish326/Leetcode_questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Tanish326/Leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanish326/Leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish326/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Tanish326/Leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanish326/Leetcode_questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/Tanish326/Leetcode_questions/tree/master/2090-k-radius-subarray-averages) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tanish326/Leetcode_questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Tanish326/Leetcode_questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
