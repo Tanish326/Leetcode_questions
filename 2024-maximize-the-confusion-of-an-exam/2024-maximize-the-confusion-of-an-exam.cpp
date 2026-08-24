@@ -16,17 +16,18 @@ public:
             }
             count = min(countT,countF);
              if(count>k){
-            
+             
                 while(i<n && count>k){
                     if(answerKey[i]=='T'){
                         countT--;
                     }else{
                         countF--;
                     }
-                    count = count -  min(countT,countF);
+                 count = min(countT,countF);
                     i++;
-
+                    
                 }
+
              }
              if(count<=k){
                 maxlen = max(maxlen,(j-i+1));
