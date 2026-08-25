@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Tanish326/Leetcode_questions/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tanish326/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Tanish326/Leetcode_questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Tanish326/Leetcode_questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Tanish326/Leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2374-node-with-highest-edge-score](https://github.com/Tanish326/Leetcode_questions/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/Tanish326/Leetcode_questions/tree/master/2404-most-frequent-even-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tanish326/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Tanish326/Leetcode_questions/tree/master/2615-sum-of-distances) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Tanish326/Leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tanish326/Leetcode_questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tanish326/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Tanish326/Leetcode_questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Tanish326/Leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanish326/Leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
