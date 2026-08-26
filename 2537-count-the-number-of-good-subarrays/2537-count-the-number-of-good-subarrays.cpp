@@ -1,22 +1,35 @@
 class Solution {
 public:
-    long long countGood(vector<int>& nums, int k) {
-        int n = nums.size();
-        int same = 0, right = -1;
-        unordered_map<int, int> cnt;
-        long long ans = 0;
-        for (int left = 0; left < n; ++left) {
-            while (same < k && right + 1 < n) {
-                ++right;
-                same += cnt[nums[right]];
-                ++cnt[nums[right]];
-            }
-            if (same >= k) {
-                ans += n - right;
-            }
-            --cnt[nums[left]];
-            same -= cnt[nums[left]];
+   long long countGood(vector<int>& nums, int k) {
+    int n = nums.size();
+    int i = 0;
+    int j = 0;
+
+    long long pairs = 0;
+    long long count = 0;
+
+    unordered_map<int, int> mpp;
+
+    while (j < n) {
+
+        
+        pairs += mpp[nums[j]];
+        mpp[nums[j]]++;
+
+        
+        while (pairs >= k) {
+            count += n - j;
+
+            
+            pairs -= mpp[nums[i]] - 1;
+            mpp[nums[i]]--;
+
+            i++;
         }
-        return ans;
+
+        j++;
     }
+
+    return count;
+}
 };
