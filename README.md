@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3208-alternating-groups-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish326/Leetcode_questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3208-alternating-groups-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Ordered Set
