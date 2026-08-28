@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Ordered Set
 |  |
 | ------- |
