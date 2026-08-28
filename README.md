@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Ordered Set
 |  |
