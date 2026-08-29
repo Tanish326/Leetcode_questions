@@ -1,32 +1,27 @@
 class Solution {
 public:
- int divisorSubstrings(int num, int k) {
-    string ans = to_string(num);
-    int i = 0;
-    int j = 0;
-    int n = ans.size();
-    string a = "";
-    int count = 0;
-
-    while(j < n) {
-        a = a + ans[j];
-
-        while(i < n && a.size() > k) {
-            a.erase(0, 1);   // remove first character
-            i++;
-        }
-
-        if(a.size() == k) {
-            int val = stoi(a);
-
-            if(val != 0 && num % val == 0) {
-                count++;
+    int divisorSubstrings(int num, int k) {
+        string a = to_string(num);
+        int n = a.size();
+        int i = 0;
+        int j = 0;
+        int count = 0;
+        string ans = "";
+        while(j<n){
+            ans = ans + a[j];
+            if((j-i+1)>k){
+                ans.erase(ans.begin());
+                i++;
             }
+            if((j-i+1)==k){
+                int a = stoi(ans);
+                if(a!=0 && num%a==0){
+                    count++;
+                }
+            }
+            j++;
+
         }
-
-        j++;
+        return count;
     }
-
-    return count;
-}
 };
