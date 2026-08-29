@@ -25,14 +25,14 @@ public:
                 }else{
                     mpp1[a]++;
                     count++;
-
+                }
                 
                 while(mpp1[a]>mpp[a]){
                     string leftword = s.substr(left,len);
                     mpp1[leftword]--;
                     count--;
                     left = left + len;
-                }}
+                }
                 if(count==m){
                     ans.push_back(left);
                  string leftword = s.substr(left,len);
