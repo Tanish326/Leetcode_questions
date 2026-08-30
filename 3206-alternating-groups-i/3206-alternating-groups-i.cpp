@@ -5,23 +5,24 @@ public:
         int i = 0;
         int j = 1;
         int count = 0;
-        int len = 0;
-        while(j<n+2){
-            if(colors[(j-1)%n]!=colors[j%n]){
+        int groups = 0;
+        while(j<2*n){
+            if(colors[j%n]!=colors[(j-1)%n]){
                 count++;
             }
-            while((j-i+1)>3){
-                if(i<n && colors[(i)%n]!=colors[(i+1)%n]){
-                count--;}
-                i++;
-            }
-            if((j-i+1)==3){
-                if(count==2){
-                    len++;
+            while(i<=j && (j-i+1)>3){
+                if(i+1 < n && colors[i]!=colors[i+1]){
+                    count--;
                 }
+                i++;
+
+            }
+            if(count==2 && (j-i+1)==3 && i<n){
+                groups++;
             }
             j++;
+
         }
-        return len;
+        return groups;
     }
 };
