@@ -10,43 +10,59 @@
  */
 class Solution {
 public:
-    vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        ListNode* prev = head;
+    vector<int> nodesBetweenCriticalPoints(ListNode* head) {       
         ListNode* temp = head->next;
         if(!temp->next){
             return {-1,-1};
-
         }
-        vector<int>ans;
+        ListNode* prev = head;
+        int count = 0;
         int ind = 2;
-        while(temp){
-            if( temp->next && prev->val<temp->val && temp->next->val < temp->val){
-              ans.push_back(ind);
+        int prevind = -1;
+        int maxdist = 0;
+        int mindist = 1e9;
+        int firstind = -1;
+        while(temp->next){
+            if(temp->val>prev->val && temp->val>temp->next->val){
+                count++;
+                if(prevind==-1){
+                    prevind = ind;
+                }else{
+                    mindist = min(mindist,abs(ind-prevind));
+                    prevind = ind;
+
+                }
+                if(firstind==-1){
+                    firstind = ind;
+                }
+
+              
+            }
+            else if(temp->val<prev->val && temp->val<temp->next->val){
+                count++;
+                  if(prevind==-1){
+                    prevind = ind;
+                }else{
+                    mindist = min(mindist,abs(ind-prevind));
+                    prevind = ind;
+
+                }
+                if(firstind==-1){
+                    firstind = ind;
+                }
 
             }
-             if( temp->next && prev->val > temp->val && temp->next->val > temp->val){
-                ans.push_back(ind);
-            }
-            ind++;
+            
             prev = temp;
             temp = temp->next;
+            ind++;
+    
         }
-         int n = ans.size();
-        if(n==0 || n==1){
+        if(count<2){
             return {-1,-1};
         }
-        int maxdist = -1e9;
-        int mindist = 1e9;
-       for(int i=1;i<n;i++){
-        maxdist = max(maxdist,ans[i]-ans[0]);
-        mindist = min(mindist,ans[i]-ans[i-1]);
-       
-       }
-     vector<int>a;
-        a.push_back(mindist);
-        a.push_back(maxdist);
-        return a;
-       
-    
-    } 
+        maxdist = max(maxdist,abs(prevind-firstind));
+       return {mindist,maxdist};
+        
+    }
 };
