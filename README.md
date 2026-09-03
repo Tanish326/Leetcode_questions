@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tanish326/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish326/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/Tanish326/Leetcode_questions/tree/master/0817-linked-list-components) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tanish326/Leetcode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Tanish326/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanish326/Leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tanish326/Leetcode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tanish326/Leetcode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0890-find-and-replace-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0890-find-and-replace-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
