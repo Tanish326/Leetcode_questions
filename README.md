@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tanish326/Leetcode_questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Tanish326/Leetcode_questions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Tanish326/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tanish326/Leetcode_questions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Tanish326/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0890-find-and-replace-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Tanish326/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Tanish326/Leetcode_questions/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/Tanish326/Leetcode_questions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Tanish326/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Tanish326/Leetcode_questions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish326/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
