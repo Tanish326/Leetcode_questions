@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Tanish326/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Tanish326/Leetcode_questions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Tanish326/Leetcode_questions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tanish326/Leetcode_questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Tanish326/Leetcode_questions/tree/master/0997-find-the-town-judge) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Tanish326/Leetcode_questions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Tanish326/Leetcode_questions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Tanish326/Leetcode_questions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanish326/Leetcode_questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Tanish326/Leetcode_questions/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/Tanish326/Leetcode_questions/tree/master/0942-di-string-match) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanish326/Leetcode_questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Tanish326/Leetcode_questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tanish326/Leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Tanish326/Leetcode_questions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Tanish326/Leetcode_questions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/Tanish326/Leetcode_questions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Tanish326/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
