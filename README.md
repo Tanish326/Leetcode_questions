@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Tanish326/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Tanish326/Leetcode_questions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/Tanish326/Leetcode_questions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanish326/Leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Tanish326/Leetcode_questions/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Tanish326/Leetcode_questions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Tanish326/Leetcode_questions/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/Tanish326/Leetcode_questions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Tanish326/Leetcode_questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Tanish326/Leetcode_questions/tree/master/1092-shortest-common-supersequence) |
