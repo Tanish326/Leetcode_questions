@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Tanish326/Leetcode_questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanish326/Leetcode_questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanish326/Leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tanish326/Leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/Tanish326/Leetcode_questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Tanish326/Leetcode_questions/tree/master/1446-consecutive-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tanish326/Leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tanish326/Leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tanish326/Leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Tanish326/Leetcode_questions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Tanish326/Leetcode_questions/tree/master/0796-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tanish326/Leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
