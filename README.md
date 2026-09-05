@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tanish326/Leetcode_questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2090-k-radius-subarray-averages](https://github.com/Tanish326/Leetcode_questions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2121-intervals-between-identical-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/2121-intervals-between-identical-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tanish326/Leetcode_questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Tanish326/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tanish326/Leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanish326/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Tanish326/Leetcode_questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Tanish326/Leetcode_questions/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanish326/Leetcode_questions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tanish326/Leetcode_questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Tanish326/Leetcode_questions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Tanish326/Leetcode_questions/tree/master/2269-find-the-k-beauty-of-a-number) |
