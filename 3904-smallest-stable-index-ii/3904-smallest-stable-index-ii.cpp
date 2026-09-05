@@ -1,33 +1,20 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-          int n = nums.size();
-        int minelem = nums[n-1];
-        vector<int>nextsmall(n);
-        nextsmall[n-1] = nums[n-1];
-        for(int i=n-2;i>=0;i--){
-            if(nums[i]<minelem){
-                minelem = nums[i];
-              }
-            nextsmall[i] = minelem;
-        }
-        int maxelem = nums[0];
-        if(maxelem-nextsmall[0]<=k){
-            return 0;
-        }
-        int ind = -1;
+        int n = nums.size();
+        vector<int>pref(n,0);
+        vector<int>suff(n,0);
+        pref[0] = nums[0];
+        suff[n-1] = nums[n-1];
         for(int i=1;i<n;i++){
-            if(nums[i]>maxelem){
-                maxelem = nums[i];
-            }
-            if((maxelem - nextsmall[i])<=k){
-                ind = i;
-                break;
+            pref[i] = max(pref[i-1],nums[i]);
+            suff[n-1-i] = min(suff[n-i],nums[n-1-i]);
+        }
+        for(int i=0;i<n;i++){
+            if(pref[i]-suff[i]<=k){
+                return i;
             }
         }
-        if(ind==-1){
-            return ind;
-        }
-        return ind;
+        return -1;
     }
 };
