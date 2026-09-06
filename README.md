@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Tanish326/Leetcode_questions/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Tanish326/Leetcode_questions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tanish326/Leetcode_questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Tanish326/Leetcode_questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tanish326/Leetcode_questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanish326/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Tanish326/Leetcode_questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tanish326/Leetcode_questions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Tanish326/Leetcode_questions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Tanish326/Leetcode_questions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Tanish326/Leetcode_questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Tanish326/Leetcode_questions/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Tanish326/Leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanish326/Leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
