@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Tanish326/Leetcode_questions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/Tanish326/Leetcode_questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Tanish326/Leetcode_questions/tree/master/2562-find-the-array-concatenation-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Tanish326/Leetcode_questions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Tanish326/Leetcode_questions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Tanish326/Leetcode_questions/tree/master/2615-sum-of-distances) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Tanish326/Leetcode_questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/Tanish326/Leetcode_questions/tree/master/2540-minimum-common-value) |
+| [2562-find-the-array-concatenation-value](https://github.com/Tanish326/Leetcode_questions/tree/master/2562-find-the-array-concatenation-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tanish326/Leetcode_questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanish326/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Tanish326/Leetcode_questions/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tanish326/Leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
