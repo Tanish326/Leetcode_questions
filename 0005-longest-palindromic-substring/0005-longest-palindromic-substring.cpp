@@ -2,39 +2,33 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         int n = s.size();
-
-        if (n == 0) return "";
-
-        int start = 0;
-        int maxLen = 1;
-
-        for (int i = 0; i < n; i++) {
-
-            // Odd length palindrome
-            int l = i, r = i;
-            while (l >= 0 && r < n && s[l] == s[r]) {
-                if (r - l + 1 > maxLen) {
-                    maxLen = r - l + 1;
-                    start = l;
-                }
-                l--;
-                r++;
-            }
-
-            // Even length palindrome
-            l = i;
-            r = i + 1;
-            while (l >= 0 && r < n && s[l] == s[r]) {
-                if (r - l + 1 > maxLen) {
-                    maxLen = r - l + 1;
-                    start = l;
-                }
-                l--;
-                r++;
-            }
+        if(n==0){
+            return "";
         }
-
-        return s.substr(start, maxLen);
+        int st = 0;
+        int maxlen = 1;
+        for(int i=0;i<n;i++){
+           int l = i;
+           int r = i;
+           while(l>=0 && r<n && s[l]==s[r]){
+            if((r-l+1)>maxlen){
+                st = l;
+                maxlen = (r-l+1);
+            }
+            l--;
+            r++;
+           }
+           l = i;
+           r = i+1;
+           while(l>=0 && r<n && s[l]==s[r]){
+              if((r-l+1)>maxlen){
+                maxlen = (r-l+1);
+                st = l;
+              }
+              l--;
+              r++;
+           }
+        }
+        return s.substr(st,maxlen);
     }
 };
-   
