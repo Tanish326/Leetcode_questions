@@ -1081,4 +1081,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tanish326/Leetcode_questions/tree/master/0455-assign-cookies) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tanish326/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
