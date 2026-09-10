@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanish326/Leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Tanish326/Leetcode_questions/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanish326/Leetcode_questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanish326/Leetcode_questions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanish326/Leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Tanish326/Leetcode_questions/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanish326/Leetcode_questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
 | ------- |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tanish326/Leetcode_questions/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanish326/Leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/Tanish326/Leetcode_questions/tree/master/0993-cousins-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanish326/Leetcode_questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
 | ------- |
