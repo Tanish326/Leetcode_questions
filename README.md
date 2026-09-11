@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanish326/Leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tanish326/Leetcode_questions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish326/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/3731-find-missing-elements) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanish326/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish326/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Tanish326/Leetcode_questions/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish326/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanish326/Leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tanish326/Leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanish326/Leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tanish326/Leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tournament Sort
 |  |
 | ------- |
