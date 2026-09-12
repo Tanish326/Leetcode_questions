@@ -14,32 +14,30 @@ public:
         if(!head || !head->next){
             return head;
         }
-        ListNode* tail = head;
         int len = 1;
-        while(tail->next){
+        ListNode* temp = head;
+        while(temp->next){
+            temp = temp->next;
             len++;
-            tail = tail->next;
         }
         k = k%len;
-        tail->next = head;
-        ListNode* newhead = tail->next;
-        int target = len-k;
-        ListNode* temp = newhead;
+         if(k==0){
+            return head;
+         }
+         int c = len-k;
+        temp->next = head;
+        temp = head;
         int count = 1;
         while(temp){
-            if(count==target){
+            if(count==c){
                 break;
             }
             count++;
             temp = temp->next;
         }
-        newhead = temp->next;
+        head = temp->next;
         temp->next = NULL;
-        return newhead;
-
-
-
-
+        return head;
 
     }
 };
